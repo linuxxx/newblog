@@ -2,14 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linuxxx.github.io</id>
     <title>海外协议黑科技</title>
-    <updated>2021-03-02T09:39:17.652Z</updated>
+    <updated>2021-03-02T10:03:32.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linuxxx.github.io"/>
     <link rel="self" href="https://linuxxx.github.io/atom.xml"/>
-    <subtitle>专注于whatsapp，facebook，zalo，line等协议开发，另外研究各种黑科技小软件</subtitle>
+    <subtitle>专注于whatsapp，facebook，zalo，line等协议开发，另外研究各种黑科技小软件  q: 2300306356</subtitle>
     <logo>https://linuxxx.github.io/images/avatar.png</logo>
     <icon>https://linuxxx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 海外协议黑科技</rights>
+    <entry>
+        <title type="html"><![CDATA[zalo]]></title>
+        <id>https://linuxxx.github.io/post/zalo/</id>
+        <link href="https://linuxxx.github.io/post/zalo/">
+        </link>
+        <updated>2021-03-02T09:39:49.000Z</updated>
+        <content type="html"><![CDATA[<p>zalo是越南用户量最大的社交APP, 地位等同于国内的微信<br>
+zalo协议后台:<br>
+<img src="https://linuxxx.github.io/post-images/1614678057438.png" alt="" loading="lazy"><br>
+zalo功能:<br>
+• zalo批量打招呼加好友<br>
+• zalo群发消息<br>
+• zalo注册账号<br>
+• zalo强制私信等等<br>
+<img src="https://linuxxx.github.io/post-images/1614678097170.png" alt="" loading="lazy"><br>
+zalo资料修改:<br>
+<img src="https://linuxxx.github.io/post-images/1614678102909.png" alt="" loading="lazy"><br>
+有需要的可以加q联系</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[企业微信红包裂变]]></title>
         <id>https://linuxxx.github.io/post/test/</id>
