@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linuxxx.github.io</id>
+    <title>海外协议黑科技</title>
+    <updated>2021-03-02T09:34:35.619Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://linuxxx.github.io"/>
+    <link rel="self" href="https://linuxxx.github.io/atom.xml"/>
+    <subtitle>专注于whatsapp，facebook，zalo，line等协议开发，另外研究各种黑科技小软件</subtitle>
+    <logo>https://linuxxx.github.io/images/avatar.png</logo>
+    <icon>https://linuxxx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 海外协议黑科技</rights>
+    <entry>
+        <title type="html"><![CDATA[企业微信红包裂变]]></title>
+        <id>https://linuxxx.github.io/post/test/</id>
+        <link href="https://linuxxx.github.io/post/test/">
+        </link>
+        <updated>2021-03-02T07:27:43.000Z</updated>
+        <content type="html"><![CDATA[<p>一. 先上效果图<br>
+<img src="https://linuxxx.github.io/post-images/1614677311104.png" alt="" loading="lazy"><br>
+这个是我们做活动测出来的真实数据, 可见利用红包来添加客户的个人微信是非常有吸引力的.</p>
+<p>二. 效果数据<br>
+客户预期加粉数：3000 实际裂变粉丝数：3254 耗时：3小时 启动量：669人 客单价：0.6元/个<br>
+<img src="https://linuxxx.github.io/post-images/1614677328460.png" alt="" loading="lazy"><br>
+三. 系统大概功能<br>
+创建活动<br>
+<img src="https://linuxxx.github.io/post-images/1614677341240.png" alt="" loading="lazy"></p>
+<p>用户领取无门槛流程<br>
+<img src="https://linuxxx.github.io/post-images/1614677364898.png" alt="" loading="lazy"><br>
+邀请领取流程<br>
+<img src="https://linuxxx.github.io/post-images/1614677373440.png" alt="" loading="lazy"><br>
+群发消息, 可以用来群发给增加的客户, 用于二次筛选和转化<br>
+<img src="https://linuxxx.github.io/post-images/1614677379865.png" alt="" loading="lazy"><br>
+有需要深入交流探讨的可联系我, 重在交友,互利共赢.</p>
+]]></content>
+    </entry>
+</feed>
